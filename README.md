@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI,ML, and CPC.**
 
-- 📝 I regularly write articles on [https://medium.com/@ThursdayThoughtsbyLojanEssam](https://medium.com/@ThursdayThoughtsbyLojanEssam)
+- 📝 I regularly write articles on [https://medium.com/@ThursdayThoughtsbyLojanEssam](https://medium.com/@ThursdayThoughtsbyLojanEssam) and on https://substack.com/@lojanessamfarouk
 
 - 💬 Ask me about **Python, C, C++, Flutter**
 
