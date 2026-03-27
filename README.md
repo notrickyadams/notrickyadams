@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, C, C++, Flutter**
 
-- 📫 How to reach me **lojanessam7@gmail.com**
+- 📫 How to reach me **lojanessamfarouk@gmail.com*
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
