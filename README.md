@@ -9,6 +9,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI+%26+ML+Projects;Flutter+Developer;C+%2F+C%2B%2B+Problem+Solver;Always+Learning+🚀" />
 </p>
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lojan-essam-farouk-8a244b207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:lojanessamfarouk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://medium.com/@thursdaythoughtsbylojanessam">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🧭 About Me
@@ -69,21 +84,7 @@
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lojan-essam-farouk-8a244b207/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:lojanessamfarouk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://medium.com/@thursdaythoughtsbylojanessam">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
