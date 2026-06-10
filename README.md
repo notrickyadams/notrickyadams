@@ -25,9 +25,7 @@
 [![](https://img.shields.io/badge/-%20FLUTTER-%23000000?style=for-the-badge&logo=flutter&logoColor=00ff88)]()
 
 [![](https://img.shields.io/badge/-%20GIT-%23000000?style=for-the-badge&logo=git&logoColor=00ff88)]()
-[![](https://img.shields.io/badge/-%20DOCKER-%23000000?style=for-the-badge&logo=docker&logoColor=00ff88)]()
 [![](https://img.shields.io/badge/-%20LINUX-%23000000?style=for-the-badge&logo=linux&logoColor=00ff88)]()
-[![](https://img.shields.io/badge/-%20FIREBASE-%23000000?style=for-the-badge&logo=firebase&logoColor=00ff88)]()
 
 </div>
 
